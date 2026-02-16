@@ -277,7 +277,7 @@ This project is open source and available under the MIT License.
 
 **Paramdeep Nijjer**
 - LinkedIn: [linkedin.com/in/paramdeepnijjer](https://linkedin.com/in/paramdeepnijjer)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@paramdeepnijjer-blip](https://github.com/paramdeepnijjer-blip)
 
 ## 🙏 Acknowledgments
 
