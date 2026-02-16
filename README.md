@@ -83,7 +83,7 @@ python FaceDetectionModule.py
 
 Make sure to update the video path:
 ```python
-cap = cv2.VideoCapture("Videos/2.mp4")  # Change to your video path
+cap = cv2.VideoCapture("Videos/2.mp4")  # You can use a different video. Mine was in pixels
 ```
 
 ## 🎨 Custom Bounding Box Style
@@ -240,15 +240,6 @@ cv2.destroyAllWindows()
 - Reduce video resolution
 - Increase `minDetectionCon` to reduce processing
 - Process every Nth frame instead of every frame
-
-**Video file not found?**
-```python
-# Use absolute path
-cap = cv2.VideoCapture("/full/path/to/video.mp4")
-
-# Or use webcam
-cap = cv2.VideoCapture(0)
-```
 
 ## 🎯 Future Enhancements
 
