@@ -37,8 +37,8 @@ mediapipe>=0.8.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/face-detection-module.git
-cd face-detection-module
+git clone https://github.com/paramdeepnijjer-blip/mediapipe-face-detection-opencv.git
+cd mediapipe-face-detection-opencv
 ```
 
 2. Install dependencies:
